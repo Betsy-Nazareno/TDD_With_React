@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shallow tests test 2 1`] = `
+<div>
+  Hello world 
+  <span
+    onClick={[Function]}
+  >
+    hola
+  </span>
+  <span>
+    DISABLE
+  </span>
+</div>
+`;
